@@ -8,7 +8,7 @@ A Frogger-style arcade game built for Udacity's Front-End [Nanodegree Program](h
 
 - Open Index.html in your browser
 - Use your arrow keys to move the player left, right, up and down. 
-- Your goal is to move toward the water, evading the enemies who move on the paved block portion of the scene.
+- Your goal is to move toward the water, evading the enemies who move on the paved block portion of the screen.
 - If you collide with an enemy, the game is reset and you're moved back to the start square.
 - If you reach the water without colliding with a bug, you win!
 
