@@ -2,7 +2,7 @@
 
 ## Description
 
-A Frogger-style arcade game built for Udacity's Front-End [Nanodegree Program](https://www.udacity.com/courses/web-development). Udacity provided the visual assets and a game loop engine; using these tools I added a number of ingredients including the characters (player and enemies) and their functionality.
+A **Frogger-style arcade game** built for Udacity's Front-End [Nanodegree Program](https://www.udacity.com/courses/web-development). Udacity provided the visual assets and a game loop engine; using these tools I added a number of ingredients including the characters (player and enemies) and their functionality.
 
 ## How to Play
 
