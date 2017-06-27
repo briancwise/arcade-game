@@ -14,7 +14,7 @@ A Frogger-style arcade game built for Udacity's Front-End [Nanodegree Program](h
 
 ## Documentation
 
-- [Github hosted version](https://briancwise.github.io/arcade-game/)
+- Play a [Github hosted version](https://briancwise.github.io/arcade-game/) of the game.
 - Udacity project [detailed description](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub)
 - Udacity JavaScript [style guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
 
